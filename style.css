@@ -1,0 +1,49 @@
+.head-text {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.flex {
+    display:flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    width: 295px;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 60px;
+    background-color: gainsboro;
+}
+
+.button{
+    width: 64px;
+    margin: 0 2px;
+    padding: 15px;
+    border: 3px solid black;
+    border-radius: 60px;
+    font-size: x-large;
+    color: white;
+
+}
+
+.mx-auto{
+    max-width: auto;
+}
+
+
