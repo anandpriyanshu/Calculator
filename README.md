@@ -1,2 +1,2 @@
 # Calculator
-COmplete calculator made my me.
+Complete calculator made my me.
